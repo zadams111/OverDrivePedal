@@ -2201,3 +2201,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.03-15.37.26:031][834]LogViewport: Scene viewport resized to 1612x1596, mode Windowed.
 [2024.11.03-15.37.35:879][739]LogViewport: Scene viewport resized to 2418x1693, mode Windowed.
 [2024.11.03-15.37.40:630][117]LogViewport: Scene viewport resized to 1612x1596, mode Windowed.
+[2024.11.03-15.38.23:560][810]LogEditorViewport: Clicking Background
+[2024.11.03-15.38.24:591][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.03-15.38.24:601][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.03-15.38.24:676][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.11.03-15.38.24:682][927]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.03-15.38.24:684][927]LogSavePackage: Moving '../../../../../../Users/zacha/Nextcloud/ART/3D-Modeling/3dp-overdrive-pedal/source/04-presentation/OverDrivePedal/OverDrivePedal/Saved/Main70D09D0A4A4CE7350027E588B54F5381.tmp' to '../../../../../../Users/zacha/Nextcloud/ART/3D-Modeling/3dp-overdrive-pedal/source/04-presentation/OverDrivePedal/OverDrivePedal/Content/Maps/Main.umap'
+[2024.11.03-15.38.24:692][927]LogFileHelpers: All files are already saved.
+[2024.11.03-15.38.24:692][927]LogFileHelpers: Saving map 'Main' took 0.046
+[2024.11.03-15.38.24:919][927]LogSavePackage: Moving output files for package: /Game/Assets/OverDrivePedal/Materials/Textures/overdrive_pedal_low_mat_overdrive_pedal_OcclusionRoughnessMetallic
+[2024.11.03-15.38.24:920][927]LogSavePackage: Moving '../../../../../../Users/zacha/Nextcloud/ART/3D-Modeling/3dp-overdrive-pedal/source/04-presentation/OverDrivePedal/OverDrivePedal/Saved/overdrive_pedal_low_mat_overdriv886ED5424DE29A9C38D58E8DD37FA811.tmp' to '../../../../../../Users/zacha/Nextcloud/ART/3D-Modeling/3dp-overdrive-pedal/source/04-presentation/OverDrivePedal/OverDrivePedal/Content/Assets/OverDrivePedal/Materials/Textures/overdrive_pedal_low_mat_overdrive_pedal_OcclusionRoughnessMetallic.uasset'
+[2024.11.03-15.38.24:939][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms
+[2024.11.03-15.38.24:941][927]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.03-15.38.24:941][927]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2024.11.03-15.38.24:942][927]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/OverDrivePedal/Materials/Textures/overdrive_pedal_low_mat_overdrive_pedal_OcclusionRoughnessMetallic.overdrive_pedal_low_mat_overdrive_pedal_OcclusionRoughnessMetallic
